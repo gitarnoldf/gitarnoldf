@@ -1,6 +1,10 @@
-<h4> Hi there, I'm Arnold! </h4>
+### ***Hi there, I'm Arnold!***
 
-<h5> Lets talk: </h5>
+Welcome to my Github page. If you're looking for projects I have worked on, this is where to go:
+
+[Sample Github PAGES site](https://github.com/gitarnoldf)
+
+<h5> Lets connect: </h5>
 <p align="left">
     <a href="https://github.com/gitarnoldf" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@gitarnoldf-181717?style=flat-square&logo=GitHub&logoColor=white"> </a>
      <a href="https://www.linkedin.com/in/arnoldfernandes" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -11,25 +15,23 @@
 
 ``` python
 dictArnold = {
-                lastname : 'Fernandes',
-                firstname : 'Arnold',
+                lastname : Fernandes,
+                firstname : Arnold,
 
                 personal : {
                               pronouns : ['he','his'],
-                              age : 29
-                              city : Boston,MA
+                              age : 29,
+                              location : Boston,
                               languages : ['en', 'hi', 'mr']                             
                            },
                            
-                interests : {
-                              research : ['earth science', 
-                                          'environment', 
-                                          'natural catastrophe modelling'],
+                aboutme : {
+                              research : ['earth science','environment','natural catastrophe modelling'],
                               tools : [Python, C++, R, SQL, GIS]
-                            }
+                          },
                 
                 email : 'afernandes@g(dot)harvard(dot)edu'
-              }              
+             }              
 ```  
 
 
