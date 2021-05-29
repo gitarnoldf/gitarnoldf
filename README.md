@@ -1,6 +1,17 @@
 <h2> Hi there, I'm Arnold! </h2>
 
-! [Thats me](https://octodex.github.com/images/yaktocat.png)
 
-(https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif)
-              
+```python
+# About Me: 
+arnold = {
+  pronouns: "he" | "his",
+  code: [Python, R, SQL, C++],
+  tools: [VSCode, Azure Data Studio],
+  details: {
+                        city: "Boston",
+                        languages: { "en" , "fr" } 
+                        interests: "earth and environment"
+                      },
+ contact: "abc"
+}
+```              
