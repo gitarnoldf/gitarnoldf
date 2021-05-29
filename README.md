@@ -1,12 +1,6 @@
-## :rainbow: Hi there! I’m Arnold
-* 🌱 I’m currently learning about *AWS and Apache Spark*
+<h2> Hi there, I'm Arnold! </h2>
 
-* 👨‍💻 All about myself is available at [My Website]
+! [Thats me](https://octodex.github.com/images/yaktocat.png)
 
-* 📝 I seldom write articles on [Medium]
-
-* 💬 Ask me about 
-
-* 📫 How to reach me
-
-* 📄 Know about my experiences
+(https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif)
+              
