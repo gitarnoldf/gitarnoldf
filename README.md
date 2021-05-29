@@ -2,18 +2,33 @@
 
 
 
-<h4> A useful little dictionary: </h4>
 
-```python 
-arnold = {
-  pronouns: "he" | "his",
-  code: [Python, R, SQL, C++],
-  tools: [VSCode, Azure Data Studio],
-  details: {
-               city: "Boston",
-               languages: { "en" , "fr" } 
-               interests: "earth and environment"
-           },
- contact: "abc"
-}
+
+<h4> A bit about me: </h4>
+
+``` python
+
+dictArnold = {
+                lastname : 'Fernandes',
+                firstname : 'Arnold',
+
+                personal : {
+                              pronouns : ['he','his'],
+                              age : 29
+                              city : Boston,MA
+                              languages : ['en', 'hi', 'mr']                             
+                           },
+                           
+                interests : {
+                              research : ['earth science', 'environment', 'natural catastrophe modelling'],
+                              tools : [Python, C++, R, SQL, GIS]
+                            }
+                           
+                contact :  {  
+                              email : 'afernandes@g(dot)harvard(dot)edu'
+                              linkedin : 'https://www.linkedin.com/in/arnoldfernandes'
+                           }
+              }
+              
+              
 ```              
