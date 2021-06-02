@@ -2,7 +2,7 @@
 
 Welcome to my Github page. If you're looking for projects I have worked on, this is where to go:
 
-[Sample Github PAGES site](https://gitarnoldf.github.io/gitarnoldf/)
+[Sample Github PAGES site](https://gitarnoldf.github.io/)
 
 <h5> Lets connect: </h5>
 <p align="left">
