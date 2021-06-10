@@ -1,8 +1,6 @@
 ### ***Hi there, I'm Arnold!***
 
-Welcome to my Github page. If you're looking for projects I have worked on, this is where to go:
-
-[Sample Github PAGES site](https://gitarnoldf.github.io/)
+Welcome to my Github page. If you're looking for projects I have worked on, this is where to go: [gitarnoldf.github.io](https://gitarnoldf.github.io/)
 
 <h5> Lets connect: </h5>
 <p align="left">
@@ -20,7 +18,6 @@ dictArnold = {
 
                 personal : {
                               pronouns : ['he','his'],
-                              age : 29,
                               location : Boston,
                               languages : ['en', 'hi', 'mr']                             
                            },
@@ -31,6 +28,7 @@ dictArnold = {
                           },
                 
                 email : 'afernandes@g(dot)harvard(dot)edu'
+                
              }              
 ```  
 
