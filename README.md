@@ -23,7 +23,7 @@ dictArnold = {
                            },
                            
                 aboutme : {
-                              research : ['earth science','environment','natural catastrophe modelling'],
+                              research : ['earth science','environment','catastrophe risk'],
                               tools : [Python, C++, R, SQL, GIS]
                           },
                 
