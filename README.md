@@ -23,11 +23,11 @@ dictArnold = {
                            },
                            
                 aboutme : {
-                              research : ['earth science','environment','catastrophe risk'],
+                              research : ['earth science','environment','climate risk'],
                               tools : [Python, C++, R, SQL, GIS]
                           },
                 
-                email : 'afernandes@g(dot)harvard(dot)edu'
+                email : 'fdes.arnold@gmail(dot)com'
                 
              }              
 ```  
