@@ -35,5 +35,5 @@ dictArnold = {
 
 
 
-<img align='center' src="https://media.giphy.com/media/l4EoS4FShnTLbptOE/giphy.gif" width="1080">
+<img align='center' src="https://media.giphy.com/media/l4EoS4FShnTLbptOE/giphy.gif" width="500">
 
